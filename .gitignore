@@ -1,0 +1,10 @@
+.terraform
+*.tfstate*
+terraform.tfstate
+terraform.tfstate.*
+.terraform.lock.*
+backend.tf
+/temp
+*.pem
+
+
